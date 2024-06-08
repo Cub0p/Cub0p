@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I am Cub0p 👋
+
+- 🔭 I’m currently working on The Odin Project, and learning how to become a developer
+- 🌱 I’m currently learning Full Stack Web Development
+- 👯 I’m looking to collaborate on different projects
+- 🤔 I’m looking for help with Object Oriented Programming (OOP)
+- 💬 Ask me about anything!
+- 📫 How to reach me: cub0p (Discord)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am a Roblox scripter with 4+ years of experience!
 
 <!--
 **Cub0p/Cub0p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
