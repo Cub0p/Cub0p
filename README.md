@@ -1,25 +1,50 @@
-## Hi there, I am Cub0p 👋
+# 👋 Hi, I'm Alan (Cub0p)!
 
-- 🔭 I’m currently working on The Odin Project, and learning how to become a developer
-- 🌱 I’m currently learning Full Stack Web Development
-- 👯 I’m looking to collaborate on different projects
-- 🤔 I’m looking for help with Object Oriented Programming (OOP)
-- 💬 Ask me about anything!
-- 📫 How to reach me: cub0p (Discord)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a Roblox scripter with 4+ years of experience!
+**Undergraduate Computer Engineering Major** at [Stevens Institute of Technology](https://www.stevens.edu/)  
+🌎 I code, create, and connect in three languages: English, Polish, and Italian.
 
-<!--
-**Cub0p/Cub0p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, my name is Alan. **Determination and willpower** drive me towards my goals.
+
+- 🎓 Computer Engineering @ Stevens Institute of Technology
+- 🧑‍💻 6 years coding experience | 8 years Roblox development
+- 🎮 Roblox developer & enthusiastic YouTube channel manager
+- 🌐 I can name every country and capital in the world!
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Programming:** Python, C, Java, JavaScript
+- **Web:** HTML/CSS, Web Design
+- **Platforms:** Roblox, YouTube Channel Management
+- **Tools:** GitHub
+
+---
+
+## 📂 Featured Projects
+
+- [**BrickBlox**](#) — Innovative Roblox development project  
+- [**Atlas (CS50 Web Project)**](#) — Advanced web application for CS50
+
+---
+
+## 🌐 Connect with Me
+
+- **Website:** [alandudzinski.com](https://alandudzinski.com)
+- **LinkedIn:** [Alan Dudzinski](https://www.linkedin.com/in/alan-dudzinski-367311344)
+
+---
+
+## 📚 Fun Facts
+
+- 🗺️ Can name every country and their capital
+- 🕹️ 8 years of Roblox development
+- 🌍 Fluent in English, Polish, and Italian
+
+---
+
+> _"Determination and willpower is what drives me towards my goals."_
