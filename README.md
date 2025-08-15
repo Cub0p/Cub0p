@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alan (Cub0p)!
+# 👋 Hi, I'm Alan!
 
 **Undergraduate Computer Engineering Major** at [Stevens Institute of Technology](https://www.stevens.edu/)  
 🌎 I code, create, and connect in three languages: English, Polish, and Italian.
